@@ -60,4 +60,4 @@ library(TENET.AnnotationHub)
 
 Wrapper functions are provided to allow easy access to all included datasets. See the vignette for more details.
 
-## [Package documentation and vignette](https://bioconductor.org/packages/devel/bioc/html/TENET.AnnotationHub.html)
+## [Package documentation and vignette](https://bioconductor.org/packages/devel/data/annotation/html/TENET.AnnotationHub.html)

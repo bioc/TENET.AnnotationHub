@@ -20,7 +20,7 @@ abstract: >
     to view the manifest files for each of the datasets in this package. All
     included datasets are aligned to the human hg38 genome.
 vignette: >
-    %\VignetteIndexEntry{TENET.AnnotationHub}
+    %\VignetteIndexEntry{Using the TENET.AnnotationHub datasets}
     %\VignetteEngine{knitr::rmarkdown}
     %\VignetteEncoding{UTF-8}
     \usepackage[utf8]{inputenc}
