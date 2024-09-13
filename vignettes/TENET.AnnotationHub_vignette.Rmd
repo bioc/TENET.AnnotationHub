@@ -36,7 +36,7 @@ options(tibble.print_min = 4, tibble.print_max = 4)
 # Introduction
 
 The TENET.AnnotationHub package contains 9 GenomicRanges datasets for use in the
-TENET) package, which are all aligned to the hg38 human genome. These datasets
+TENET package, which are all aligned to the hg38 human genome. These datasets
 include regions of putative enhancers, promoters, and open chromatin such as the
 ENCODE Registry of cCREs V3 datasets, consensus datasets derived from a wide
 variety of tissues, cells, and patient samples from sources including Roadmap
