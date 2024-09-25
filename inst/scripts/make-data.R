@@ -5,6 +5,9 @@ if (!require("BiocManager", quietly = TRUE)) {
     install.packages("BiocManager")
 }
 
+## Switch Bioconductor to the development release
+BiocManager::install(version = "devel", ask = FALSE)
+
 ## GenomicRanges is required to assemble the datasets
 if (!require("GenomicRanges", quietly = TRUE)) {
     BiocManager::install("GenomicRanges")

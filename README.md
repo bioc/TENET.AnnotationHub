@@ -30,7 +30,8 @@ if (!requireNamespace("BiocManager", quietly = TRUE)) {
     install.packages("BiocManager")
 }
 
-BiocManager::install("TENET.AnnotationHub", version = "devel")
+BiocManager::install(version = "devel")
+BiocManager::install("TENET.AnnotationHub")
 ```
 The development version containing the most recent updates is available from [our GitHub repository](https://github.com/rhielab/TENET.AnnotationHub).
 
@@ -45,6 +46,7 @@ if (!requireNamespace("remotes", quietly = TRUE)) {
     install.packages("remotes")
 }
 
+BiocManager::install(version = "devel")
 BiocManager::install("rhielab/TENET.AnnotationHub")
 ```
 
