@@ -1,3 +1,11 @@
+1.0.0
+=====
+* Stable release for Bioconductor 3.20
+
+0.99.4
+======
+* Update installation instructions to use release version of Bioconductor in preparation for Bioconductor 3.20 release
+
 0.99.3
 ======
 * Use package short URL to avoid needing to update it when Bioconductor 3.20 is released
