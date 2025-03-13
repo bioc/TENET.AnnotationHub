@@ -1,10 +1,11 @@
-1.0.0
-=====
-* Stable release for Bioconductor 3.20
+0.99.5
+======
+* Remove PDF vignette to ensure Bioconductor uses the HTML version
 
 0.99.4
 ======
 * Update installation instructions to use release version of Bioconductor in preparation for Bioconductor 3.20 release
+* Initial release on Bioconductor
 
 0.99.3
 ======
@@ -24,5 +25,4 @@
 
 0.99.0
 ======
-
 * Initial Bioconductor submission
