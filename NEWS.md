@@ -1,3 +1,7 @@
+1.0.0
+=====
+* Update version number to signify stable release
+
 0.99.5
 ======
 * Remove PDF vignette to ensure Bioconductor uses the HTML version
