@@ -1,3 +1,10 @@
+1.1.0
+=====
+* Update installation instructions for Ubuntu 24.04 and add a missing required package
+* Add CITATION file
+* Add LICENSE file
+* Add TENET to `Suggests` field in DESCRIPTION
+
 1.0.0
 =====
 * Update version number to signify stable release

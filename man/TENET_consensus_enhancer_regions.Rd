@@ -44,7 +44,7 @@ annotation of non-coding RNAs. Nucleic Acids Res. 2021 Jan
 PMC7779024.
 }
 \examples{
-\dontshow{if (interactive()) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
+\dontshow{if (interactive()) withAutoprint(\{ # examplesIf}
 TENET_consensus_enhancer_regions()
 \dontshow{\}) # examplesIf}
 }

@@ -35,7 +35,7 @@ human epigenomes. Nature. 2015 Feb 19;518(7539):317-30. doi:
 10.1038/nature14248. PMID: 25693563; PMCID: PMC4530010.
 }
 \examples{
-\dontshow{if (interactive()) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
+\dontshow{if (interactive()) withAutoprint(\{ # examplesIf}
 TENET_consensus_promoter_regions()
 \dontshow{\}) # examplesIf}
 }

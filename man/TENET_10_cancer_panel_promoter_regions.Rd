@@ -29,7 +29,7 @@ manifest file hosted at
 \url{https://github.com/rhielab/TENET.AnnotationHub/blob/devel/data-raw/TENET_10_cancer_panel_promoter_regions_manifest.tsv}.
 }
 \examples{
-\dontshow{if (interactive()) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
+\dontshow{if (interactive()) withAutoprint(\{ # examplesIf}
 TENET_10_cancer_panel_promoter_regions()
 \dontshow{\}) # examplesIf}
 }

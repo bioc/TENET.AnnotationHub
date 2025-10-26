@@ -42,7 +42,7 @@ cancers. Science. 2018 Oct 26;362(6413):eaav1898. doi:
 10.1126/science.aav1898. PMID: 30361341; PMCID: PMC6408149.
 }
 \examples{
-\dontshow{if (interactive()) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
+\dontshow{if (interactive()) withAutoprint(\{ # examplesIf}
 TENET_consensus_open_chromatin_regions()
 \dontshow{\}) # examplesIf}
 }

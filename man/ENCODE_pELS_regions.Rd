@@ -30,7 +30,7 @@ mouse genomes. Nature. 2020 Jul;583(7818):699-710. doi:
 May;605(7909):E3. PMID: 32728249; PMCID: PMC7410828.
 }
 \examples{
-\dontshow{if (interactive()) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
+\dontshow{if (interactive()) withAutoprint(\{ # examplesIf}
 ENCODE_pELS_regions()
 \dontshow{\}) # examplesIf}
 }

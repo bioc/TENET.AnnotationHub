@@ -29,7 +29,7 @@ encyclopaedias of DNA elements in the human and mouse genomes. Nature.
 Erratum in: Nature. 2022 May;605(7909):E3. PMID: 32728249; PMCID: PMC7410828.
 }
 \examples{
-\dontshow{if (interactive()) (if (getRversion() >= "3.4") withAutoprint else force)(\{ # examplesIf}
+\dontshow{if (interactive()) withAutoprint(\{ # examplesIf}
 ENCODE_PLS_regions()
 \dontshow{\}) # examplesIf}
 }
